@@ -336,6 +336,7 @@ namespace PESIDAS_IT202WMT_LABACT1_FINALS
 		private void btnG5_Click(object sender, EventArgs e)
 		{
 			txtAssignedSlot.Text = "G5";
+
 		}
 	}
 }
